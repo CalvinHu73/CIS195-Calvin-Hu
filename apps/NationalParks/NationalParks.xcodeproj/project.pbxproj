@@ -17,7 +17,7 @@
 		5F55E03B255905B300568E8C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F55E03A255905B300568E8C /* Data.swift */; };
 		5F55E03D255B251500568E8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F55E03C255B251500568E8C /* ViewController.swift */; };
 		5F55E040255B302600568E8C /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 5F55E03F255B302600568E8C /* Kingfisher */; };
-		5F55E073255B76E500568E8C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F55E072255B76E500568E8C /* GoogleService-Info.plist */; };
+		5FCCB1C0255BA25C008170D7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5FCCB1BF255BA25C008170D7 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +32,7 @@
 		5F55E03A255905B300568E8C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		5F55E03C255B251500568E8C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5F55E06D255B46F300568E8C /* NationalParks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NationalParks.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5F55E072255B76E500568E8C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5FCCB1BF255BA25C008170D7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		B6987A44155ECF191FD870C2 /* Pods_NationalParks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NationalParks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C92D3B3A83DB1B6F7B11412D /* Pods-NationalParks.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NationalParks.debug.xcconfig"; path = "Target Support Files/Pods-NationalParks/Pods-NationalParks.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,7 +63,7 @@
 		5F55E0252559044500568E8C /* NationalParks */ = {
 			isa = PBXGroup;
 			children = (
-				5F55E072255B76E500568E8C /* GoogleService-Info.plist */,
+				5FCCB1BF255BA25C008170D7 /* GoogleService-Info.plist */,
 				5F55E0262559044500568E8C /* AppDelegate.swift */,
 				5F55E0282559044500568E8C /* SceneDelegate.swift */,
 				5F55E02A2559044500568E8C /* TableViewController.swift */,
@@ -161,7 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F55E0332559044B00568E8C /* LaunchScreen.storyboard in Resources */,
-				5F55E073255B76E500568E8C /* GoogleService-Info.plist in Resources */,
+				5FCCB1C0255BA25C008170D7 /* GoogleService-Info.plist in Resources */,
 				5F55E0302559044B00568E8C /* Assets.xcassets in Resources */,
 				5F55E02E2559044500568E8C /* Main.storyboard in Resources */,
 			);
